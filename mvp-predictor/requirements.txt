@@ -1,0 +1,13 @@
+# Core dependencies
+numpy>=1.24.0
+pandas>=2.0.0
+lxml>=4.9.0  # Required for pd.read_html
+
+# Data science and ML
+scikit-learn>=1.3.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Utilities
+python-dotenv>=1.0.0
+
